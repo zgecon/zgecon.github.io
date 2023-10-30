@@ -1,0 +1,13 @@
+---
+title: "DANL 200 Project"
+author: 
+  - Name 1
+  - Name 2
+  - Name 3
+---
+
+About this project
+
+```{r}
+1 + 1
+```

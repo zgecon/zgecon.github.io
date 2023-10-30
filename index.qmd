@@ -1,0 +1,25 @@
+---
+title: "Zach Gauronski"
+about:
+  template: jolla
+  image: img/profile.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Zach Gauronski majors in Economics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+State University of New York at Geneseo | Geneseo, NY <br>
+B.S. in Data Analytics | Aug 2022 - May 2026 <br>
+Minor in Business Administration 
+
+## Experience
+
+Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024

@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "Data Analytics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Project
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+
