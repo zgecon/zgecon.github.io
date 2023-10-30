@@ -12,7 +12,7 @@ about:
       href: https://github.com
 ---
 
-Zach Gauronski majors in Economics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Zach Gauronski majors in Economics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana!
 
 ## Education
 
