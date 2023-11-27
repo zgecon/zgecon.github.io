@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME"
+title: "Zach Gauronski"
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -23,7 +23,7 @@ about:
       text: Email
       href: mailto:YOUR_EMAIL@geneseo.edu
 
-include-after-body: copyright.html
+# include-after-body: copyright.html
 ---
 
 
