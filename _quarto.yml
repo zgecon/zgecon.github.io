@@ -6,6 +6,7 @@ website:
   title: "Zach Gauronski"
   navbar:
     pinned: true
+    background: "#003896"
     left:
       - text: Project
         href: project.qmd
@@ -17,7 +18,7 @@ website:
 format:
   html:
     theme: 
-      light: united
+      light: flatly
       dark: darkly
     mainfont: system-ui; 
     highlight-style: atom-one
